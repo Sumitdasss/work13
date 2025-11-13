@@ -1,3 +1,5 @@
+/* All common css start */
+
 *{
     padding: 0;
     margin: 0;
@@ -20,6 +22,8 @@ h1,h2,h3,h4,h5,h6,p{
     width: 1210px;
     margin: 0 auto;
 }
+/* All common css end */
+      /* Hader part start */
 .one1{
     display:flex ;
 
@@ -65,6 +69,9 @@ font-weight: 700;
         font-weight: 800;
 
     }
+       /* Hader part end */
+         /* Banner part start */
+
     .two4{
         color: #FD6E0A;
     }
@@ -74,6 +81,10 @@ font-weight: 700;
 
 
 
+}
+.div2 a:hover{
+color: tomato;
+transition: .4s;
 }
 .two1 h2{
 font-size:45px ;
@@ -158,6 +169,8 @@ font-weight: 700;
     margin-top: 130px;
     border-radius: 15px;
 }
+    /* Banner part end */
+    /* About part start */
 .About1 h5{
 text-align: center;
     font-size: 18px;
@@ -354,6 +367,9 @@ color: #757575;
 font-size: 16px;
 font-weight: 400;
 }
+  /* About part end */
+  /* what i learn part start */
+
 .flex2{
     display: flex;
     margin-top: 125px;
@@ -551,6 +567,9 @@ font-weight: 700;
     color: #FD6E0A;
     transition: .4s;
 }
+ /* what i learn part end */
+  /* information   part part start */
+
 .my9{
     width:1600px ;
     height:780px ;
@@ -660,3 +679,4 @@ margin-top: 130px;
         transform: scale(1.1);
         transition: .5s;
     }
+    /* information   part part end */
