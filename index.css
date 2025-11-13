@@ -31,12 +31,12 @@ h1,h2,h3,h4,h5,h6,p{
     width: 1600px;
     margin: 0 auto;
     background-color:#FFF8F3;
-    height: 780px;
+    height: 837px;
 }
 
 .div2{
     margin-left: 700px;
-    margin-top: 10px;
+    margin-top: 73px;
 }
 .div2 a{
     padding: 20px;
@@ -45,11 +45,11 @@ h1,h2,h3,h4,h5,h6,p{
     font-weight: 400;
 }
 .div1 {
-    padding-top: 10px;
+    padding-top: 75px;
 
 }
 .button1{
-    margin-top: 10px;
+    margin-top: 73px;
 }
     .button1 a{
          padding: 20px  25px!important;
@@ -114,16 +114,13 @@ font-weight: 700;
     
 }
 .two2{
-    margin-top: -285px;
+    margin-top: -290px;
     margin-left: 573px;
 }
 .two3{
     margin-top: -680px;
-    margin-left: 200px;
+    margin-left: 212px;
 }
-
-    
-
  .div1 h2 samp{
     color: #FD6E0A;
 }
