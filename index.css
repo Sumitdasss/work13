@@ -647,7 +647,7 @@ margin-top: 130px;
 .my12 button{
     padding:20px 20px;
     border: none;
-    background: white;
+    background:#ff6433;
     color:rgb(8, 7, 7);
     border-radius: 6px;
     font-size: 15px;
@@ -658,7 +658,10 @@ margin-top: 130px;
     
 }
 .my12 button:hover{
-    background: #ff6433;
+    background:white ;
+    border: 2px solid#ff6433;
+    color: #ff6433;
+    transition: .4s;
 }
     .my16{
         margin-top: 40px;
