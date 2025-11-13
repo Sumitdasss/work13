@@ -644,3 +644,19 @@ margin-top: 130px;
     .my16{
         margin-top: 40px;
     }
+    .three2:hover{
+        transform: scale(1.1);
+        transition: .5s;
+    }
+    .three3:hover{
+        transform: scale(1.1);
+        transition: .5s;
+    }
+    .three4:hover{
+        transform: scale(1.1);
+        transition: .5s;
+    }
+    .three5:hover{
+        transform: scale(1.1);
+        transition: .5s;
+    }
