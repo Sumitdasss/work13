@@ -687,3 +687,36 @@ margin-top: 130px;
         transition: .5s;
     }
     /* information   part part end */
+    .div1{
+    /* min-height: 0px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #081026;
+    margin: 0;
+    /* font-family: Arial, sans-serif; */
+}
+
+.aurora
+    /* font-size: 70px; *
+    font-weight: 800;
+    text-transform: uppercase;
+    background: linear-gradient(90deg,
+        #7ef6c8,
+        #84a9ff,
+        #c77bff,
+        #7ef6c8,
+        #84a9ff
+    );
+    background-size: 300% 100%;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: slide 6s linear infinite;
+}
+
+@keyframes slide{
+    0%{ background-position: 0% 50%; }
+    50%{ background-position: 100% 50%; }
+    100%{ background-position: 0% 50%; }
+}
